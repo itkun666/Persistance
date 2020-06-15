@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="319366d1-d5d4-48a0-8149-63306038709e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IPersistance/persistance_test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IPersistance/persistance_test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistance_test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/persistance_test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/test/MyPersistanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/test/MyPersistanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/persistance_test/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/persistance_test/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlConfigBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlConfigBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlMapperBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlMapperBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/io/Resources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/io/Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/pojo/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/pojo/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/pojo/MappedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/pojo/MappedStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/DefaultSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/DefaultSqlSessionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/persistance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/persistance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/persistance/src/main/java/com/itkun/io/Resouces.java" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/persistance/src/main/java/com/itkun/io/Resouces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/src/main/java/com/itkun/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/src/main/java/com/itkun/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/src/main/resources/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/src/main/resources/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../persistance/src/test/java/com/itkun/PersistancetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../persistance/src/test/java/com/itkun/PersistancetTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/persistance_test/target/" />
+    <ignored path="$PROJECT_DIR$/persistance_test/test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/test/MyPersistanceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/pojo/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#264#288#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactoryBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/config/XmlConfigBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/config/XmlMapperBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#823#847#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSession.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/DefaultSqlSessionFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Singleton" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/pojo/User.java" />
+        <option value="$PROJECT_DIR$/persistance_test/src/test/java/PersistanceTest.java" />
+        <option value="$PROJECT_DIR$/persistance_test/src/main/resources/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/persistance_test/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/io/Resources.java" />
+        <option value="$PROJECT_DIR$/persistance_test/src/test/java/com/itkun/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/io/com/itkun/pojo/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/pojo/MappedStatement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/pojo/Configuration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlMapperBuilder.java" />
+        <option value="$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/test/MyPersistanceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactoryBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/config/XmlConfigBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/DefaultSqlSessionFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="persistance" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="persistance" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="persistance_test" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="376" />
+    <option name="y" value="73" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="persistance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itkun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itkun" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itkun" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_persistance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itkun" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlsession" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_persistance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/itkun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\my_persistance\persistance_test\src\main\resources" />
+      <recent name="D:\project\my_persistance\persistance_test" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.itkun.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\my_persistance\src\main\resources" />
+      <recent name="D:\project\my_persistance\persistance_test\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyPersistanceTest.test">
+    <configuration name="MyPersistanceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistance_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itkun.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itkun.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itkun.test.MyPersistanceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersistanceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistance_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersistanceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="persistance_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itkun.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itkun" />
+      <option name="MAIN_CLASS_NAME" value="com.itkun.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyPersistanceTest.test" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="JUnit.PersistanceTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="319366d1-d5d4-48a0-8149-63306038709e" name="Default Changelist" comment="" />
+      <created>1592229696955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592229696955</updated>
+      <workItem from="1592229700281" duration="5100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PersistanceTest_test - 2020.06.15 at 22h 10m 35s.xml">
+      <configuration name="PersistanceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2020.06.15 at 22h 22m 50s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPersistanceTest_test - 2020.06.15 at 22h 23m 54s.xml">
+      <configuration name="MyPersistanceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPersistanceTest_test - 2020.06.15 at 22h 24m 04s.xml">
+      <configuration name="MyPersistanceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyPersistanceTest_test - 2020.06.15 at 22h 26m 02s.xml">
+      <configuration name="MyPersistanceTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22968581" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.27272728" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" weight="0.32942432" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/persistance_test/src/test/java/PersistanceTest.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/persistance_test/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/io.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/src/test/java/PersistanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/io/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/pojo/MappedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/org/dom4j/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/pojo/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#288#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="130" column="19" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/src/main/resources/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/config/XmlMapperBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#823#847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistance_test/src/main/java/com/itkun/test/MyPersistanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/config/XmlConfigBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactoryBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/SqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itkun/sqlsession/DefaultSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
